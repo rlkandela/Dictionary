@@ -1,0 +1,6 @@
+Debug
+*.mk
+*.project
+*.txt
+*.o
+main.cpp
